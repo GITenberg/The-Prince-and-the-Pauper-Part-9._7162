@@ -1,0 +1,37 @@
+_repo: The-Prince-and-the-Pauper-Part-9._7162
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Twain, Mark (Samuel Clemens)
+    - Clemens, Samuel Langhorne
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7162'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Edward VI, King of England, 1537-1553 -- Fiction'
+- !lcsh 'Princes -- Fiction'
+- !lcsh 'Poor children -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Lookalikes -- Fiction'
+- !lcsh 'Impostors and imposture -- Fiction'
+- !lcsh 'Boys -- Fiction'
+- !lcsh 'Social classes -- Fiction'
+- !lcsh 'Historical fiction'
+- GITenberg
+title: The Prince and the Pauper, Part 9.
+url: http://www.gutenberg.org/ebooks/7162
