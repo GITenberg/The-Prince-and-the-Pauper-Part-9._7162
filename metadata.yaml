@@ -1,5 +1,8 @@
 _repo: The-Prince-and-the-Pauper-Part-9._7162
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 7162-h/images/bookcover.jpg
 creator:
   author:
     agent_name: Twain, Mark
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53
     wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7162#The-Prince-and-the-Pauper-Part-9.
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2004-07-04'
 gutenberg_type: Text
